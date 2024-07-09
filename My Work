@@ -1,0 +1,31 @@
+<section>
+  <h1>My Recent Projects</h1>
+  <div>
+    <div>
+      <img src="project1.jpg" alt="Project 1 screenshot">
+    </div>
+    <div>
+      <h4>Project Name 1</h4>
+      <p>Brief description of Project 1.</p>
+      <a href="project1.html">Learn More</a>  </div>
+  </div>
+  <div>
+    <div>
+      <img src="project2.jpg" alt="Project 2 screenshot">
+    </div>
+    <div>
+      <h4>Project Name 2</h4>
+      <p>Brief description of Project 2.</p>
+      <a href="project2.html">Learn More</a>  </div>
+  </div>
+  <div>
+    <div>
+      <img src="project3.jpg" alt="Project 3 screenshot">
+    </div>
+    <div>
+      <h4>Project Name 3</h4>
+      <p>Brief description of Project 3.</p>
+      <a href="project3.html">Learn More</a>  </div>
+  </div>
+  <h3>Let's Talk About Your Project!</h3>
+</section>
