@@ -1,0 +1,23 @@
+<section>
+  <h1>My UX Skills</h1>
+
+  <div class="flex-container">
+    <div>
+      <img src="path/to/research_icon.png" alt="Research Icon">
+      <h1>User Research</h1>
+      <p>I'm passionate about understanding users. I conduct user research through surveys, interviews, and usability testing to uncover user needs and pain points. This informs my design decisions and ensures a user-centered approach.</p>
+    </div>
+
+    <div>
+      <img src="path/to/design_icon.png" alt="Design Icon">
+      <h1>Information Architecture & Wireframing</h1>
+      <p>I translate user needs into clear and intuitive experiences. I create user flows, sitemaps, and wireframes to define the information hierarchy and functionalities of a product.</p>
+    </div>
+
+    <div>
+      <img src="path/to/prototyping_icon.png" alt="Prototyping Icon">
+      <h1>Prototyping & Usability Testing</h1>
+      <p>I bring ideas to life! I build low-fidelity and high-fidelity prototypes to visualize design concepts and conduct usability testing to gather user feedback and iterate on the design.</p>
+    </div>
+  </div>
+</section>
